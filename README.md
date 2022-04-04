@@ -1,4 +1,5 @@
 # Jobs_Skills_Roadmap
+In this repo, you can explore the top 10 careers, free teach skills, free online education, free review of your resume, and free interview Preparation
 
 # Top 10 sites for your career in 2022
 1) Linkedin
